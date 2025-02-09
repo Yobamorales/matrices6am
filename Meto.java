@@ -12,7 +12,10 @@ public class Meto= scdo {
 
     public int[][] LlenarMatriz(int d);
     {
-        int[][] m = new int[d][m]
+        int[][] m = new int[d][d];
+        for(int i = 0 i < m.length; i++) {
+            for(int j = 0 j < m.length; j++)
+        }
     }
     }
 }
